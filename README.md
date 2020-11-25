@@ -1,4 +1,4 @@
-<img alt="NatsRaid" src="https://i.imgur.com/DAeKZP1.gif"> 
+<img alt="NatsRaid" src="https://i.imgur.com/28CvE8j.gif"> 
 
 ### Welcome On Nats's Github
 
