@@ -3,11 +3,17 @@
 ### Welcome On Nats's Github
 
 
-[![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)
+
 ## Social
+
+
 [![](https://i.imgur.com/G9zOYMz.png)](https://www.youtube.com/channel/UC7KMFrYHQzmXCbomARoP9zg)
-*   [Discord](https://discord.gg/JJy6ThDWBk)
-*   [Twitter](https://twitter.com/NatsIsHere_)
-*   [Github](https://github.com/NatsIsHereeeeee/)
-*   [PayPal](https://paypal.me/nqts/)
+
+[![](https://i.imgur.com/rzRQXkO.png)](https://discord.gg/K4xvP4DmmR)
+
+[![](https://i.imgur.com/0kyu8PH.png)](https://twitter.com/NatsIsHere_)
+
+[![](https://i.imgur.com/5xPzYG9.png)](https://paypal.me/nqtsssss/)
+
+
 
