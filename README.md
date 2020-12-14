@@ -2,7 +2,7 @@
 
 ### Welcome On Nats's Github
 
-
+[![](https://img.shields.io/badge/Rosé%20Pine%20Theme-191724)](https://github.com/rose-pine/rose-pine-theme)
 
 ## Social
 
