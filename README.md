@@ -7,7 +7,7 @@
 - [Github](https://github.com/NatsIsHereeeeee)
 - [Discord](https://discord.gg/wPGWZndF)
 - [Youtube](https://youtube.com/channel/UC7KMFrYHQzmXCbomARoP9zg)
-- 
+
 
 
 
