@@ -5,8 +5,9 @@
 ### Social
 
 - [Github](https://github.com/NatsIsHereeeeee)
-- [Discord](Natsss#1337)
+- [Discord](https://discord.gg/wPGWZndF)
 - [Youtube](https://youtube.com/channel/UC7KMFrYHQzmXCbomARoP9zg)
+- 
 
 
 
