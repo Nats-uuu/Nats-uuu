@@ -5,7 +5,7 @@
 ### Social
 
 - [Github](https://github.com/NatsIsHereeeeee)
-- [Discord](! Nats#1337)
+- [Discord]('! Nats#1337')
 - [Youtube](https://youtube.com/channel/UC7KMFrYHQzmXCbomARoP9zg)
 
 
