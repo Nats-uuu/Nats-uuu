@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Nats-uuu&color=fe2d36)
+
 
 <h1 style="text-align: center;"align="center"><strong>Nats</strong></h1>
 
@@ -9,13 +9,16 @@
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code></p> 
 
 
+### Stats 
 
-### Social
+![](https://komarev.com/ghpvc/?username=Nats-uuu&color=fe2d36)
+![Nats's GitHub stats](https://github-readme-stats.vercel.app/api?username=nats-uuu&theme=radical&show_icons=true)
+
+### Find me
 
 - Discord : Nats#1987
 - [My Discord Server](https://discord.gg/vVC2tHpXqz)
 - [Youtube](https://youtube.com/c/Natss)
-
 
 
 
