@@ -19,5 +19,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 💮 Other
 
-![paypal.me/stantrox](https://ionicabizau.github.io/badges/paypal.svg) You can make a donation, i will buy a coffee
+![paypal.me/stantrox](https://ionicabizau.github.io/badges/paypal.svg) *You can make a donation, i will buy a coffee ☕
 
