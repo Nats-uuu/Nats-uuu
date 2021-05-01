@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ![Nats's GitHub stats](https://github-readme-stats.vercel.app/api?username=nats-uuu&theme=radical&show_icons=true)
 
-[![Nats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nats-uuu&layout=compact)]
+![Nats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nats-uuu&layout=compact)
 ### Find me
 
 - Discord : Nats#1987
