@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Nats-uuu&color=fe2d36)
 
-<h1 style="text-align: center;"align="center"><strong>Welcome On Nats's Github</strong></h1>
+<h1 style="text-align: center;"align="center"><strong>Nats</strong></h1>
 
 ### Languages
 
@@ -12,8 +12,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### Social
 
-- [Github](https://github.com/NatsIsHereeeeee)
-- [Discord](https://discord.gg/t7P4zRDy2T)
+- Discord : Nats#1987
+- [My Discord Server](https://discord.gg/vVC2tHpXqz)
 - [Youtube](https://youtube.com/c/Natss)
 
 
