@@ -12,7 +12,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ### Stats 
 ![](https://komarev.com/ghpvc/?username=Nats-uuu&color=fe2d36)
 
-![Nats's GitHub stats](https://github-readme-stats.vercel.app/api?username=nats-uuu&theme=radical&show_icons=true)
+![Nats GitHub stats](https://github-readme-stats.vercel.app/api?username=nats-uuu&theme=radical&show_icons=true)
 
 ![Nats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nats-uuu&layout=compact)
 ### Find me
