@@ -10,11 +10,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 📈 Stats 
 
-![](https://komarev.com/ghpvc/?username=Nats-uuu&color=fe2d36)
-
-![Nats GitHub stats](https://github-readme-stats.vercel.app/api?username=nats-uuu&theme=radical&show_icons=true)
+![Views](https://komarev.com/ghpvc/?username=Nats-uuu&color=fe2d36)
 
 ![Nats Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nats-uuu&layout=compact)
+
+![Nats GitHub stats]((https://github-readme-stats.vercel.app/api?username=nats-uuu&show_icons=false&theme=dark&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)
+)
+
 
 
 ### 💮 Other
