@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Nats-uuu&color=red)
+![](https://komarev.com/ghpvc/?username=Nats-uuu&color=fe2d36)
 <h2 style="text-align: center;"><strong><img src="https://thumbs.gfycat.com/CluelessFirmKrill-size_restricted.gif" alt="" width="720" height="360" />&nbsp; </strong></h2>
 
 <h1 style="text-align: center;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp Welcome On Nats's Github</strong></h1>
