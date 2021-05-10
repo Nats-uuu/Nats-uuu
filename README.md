@@ -21,5 +21,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### 💮 Other
 
-![paypal.me/stantrox](https://camo.githubusercontent.com/a18b4bf3a695fb7a3c6eff91238fe45862849a8b38ffe492764d33fc73036de2/68747470733a2f2f696f6e69636162697a61752e6769746875622e696f2f6261646765732f70617970616c2e737667) *You can make a donation, i will buy a coffee* ☕
+![https://camo.githubusercontent.com/a18b4bf3a695fb7a3c6eff91238fe45862849a8b38ffe492764d33fc73036de2/68747470733a2f2f696f6e69636162697a61752e6769746875622e696f2f6261646765732f70617970616c2e737667](https://paypal.me/stantrox) *You can make a donation, i will buy a coffee* ☕
 
